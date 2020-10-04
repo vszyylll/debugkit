@@ -29,6 +29,7 @@ allprojects {
             //本地插件地址
             url uri(rootProject.ext.config["localRepoURL"])
         }
+        maven { url 'https://jitpack.io' }
     }
 }
 
