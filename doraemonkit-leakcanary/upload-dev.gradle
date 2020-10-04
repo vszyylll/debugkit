@@ -1,5 +1,7 @@
 def publishArchivesType = rootProject.ext.config["publishArchivesType"]
 apply plugin: 'maven'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.vszyylll'
 if (publishArchivesType == 1) {
     uploadArchives {
         repositories {
