@@ -15,10 +15,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/buildSrc" />
             <option value="$PROJECT_DIR$/doraemonkit" />
-            <option value="$PROJECT_DIR$/doraemonkit-leakcanary" />
-            <option value="$PROJECT_DIR$/doraemonkit-no-op" />
             <option value="$PROJECT_DIR$/doraemonkit-plugin" />
-            <option value="$PROJECT_DIR$/doraemonkit-weex" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
